@@ -1,2 +1,2 @@
-# issues
-blog comments issues
+# 问题
+这是一个 blog 评论库
